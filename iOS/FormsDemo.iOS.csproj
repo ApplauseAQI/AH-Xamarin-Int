@@ -57,6 +57,7 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
+    <MtouchLink>None</MtouchLink>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
