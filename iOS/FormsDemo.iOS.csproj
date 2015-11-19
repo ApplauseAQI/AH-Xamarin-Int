@@ -77,7 +77,7 @@
       <HintPath>..\packages\Xamarin.TestCloud.Agent.0.13.0\lib\Xamarin.iOS10\Calabash.dll</HintPath>
     </Reference>
     <Reference Include="Applause.iOS">
-      <HintPath>..\packages\applause-sdk.0.3\lib\Xamarin.iOS10\Applause.iOS.dll</HintPath>
+      <HintPath>..\packages\applause-sdk.0.4\lib\Xamarin.iOS10\Applause.iOS.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
