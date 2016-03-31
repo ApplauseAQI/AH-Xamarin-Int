@@ -1,5 +1,10 @@
 # AH-Xamarin-Int
 
-Sample Xamarin Forms application. Uses Applause SDK for Xamarin for both iOS and Android projects.
+This repo contains sample projects showing the integration of Applause SDK for Xamarin.
 
-Search for *APPLAUSE_APP_KEY* in both projects and replace with a valid Applause SDK APP key.
+Note: Don't forget to replace all *APPLAUSE_APP_KEY* occurences with a valid Applause SDK APP key.
+
+Available samples:
+
+ - *Droid* -- simple Xamarin.Android app
+ - *Forms* -- app using Xamarin.Forms with both Android and iOS platforms supported
